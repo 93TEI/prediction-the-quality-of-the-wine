@@ -1,1 +1,3 @@
-# prediction-the-quality-of-the-wine
+### 와인 데이터셋을 기반으로 품질 예측하기
+
+#### 파이썬을 이용한 머신러닝
